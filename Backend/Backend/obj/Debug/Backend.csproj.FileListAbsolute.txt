@@ -1,0 +1,7 @@
+C:\Users\campo\OneDrive\Escritorio\Proyecto movil\Backend\Backend\bin\Debug\Backend.dll.config
+C:\Users\campo\OneDrive\Escritorio\Proyecto movil\Backend\Backend\bin\Debug\Backend.dll
+C:\Users\campo\OneDrive\Escritorio\Proyecto movil\Backend\Backend\bin\Debug\Backend.pdb
+C:\Users\campo\OneDrive\Escritorio\Proyecto movil\Backend\Backend\obj\Debug\Backend.csproj.AssemblyReference.cache
+C:\Users\campo\OneDrive\Escritorio\Proyecto movil\Backend\Backend\obj\Debug\Backend.csproj.CoreCompileInputs.cache
+C:\Users\campo\OneDrive\Escritorio\Proyecto movil\Backend\Backend\obj\Debug\Backend.dll
+C:\Users\campo\OneDrive\Escritorio\Proyecto movil\Backend\Backend\obj\Debug\Backend.pdb
