@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Juego" Class="AccesoDatosLINQDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=proyect--server.database.windows.net;Initial Catalog=Juego;User ID=CloudSA30c43bec" SettingsObjectName="Backend.Properties.Settings" SettingsPropertyName="JuegoConnectionString1" Provider="System.Data.SqlClient" />
+  <Function Name="dbo.InsertarJugador" Method="InsertarJugador">
+    <Parameter Name="NombreUsuario" Parameter="nombreUsuario" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="Contraseña" Parameter="contraseña" Type="System.String" DbType="NVarChar(64)" />
+    <Parameter Name="Puntuacion" Parameter="puntuacion" Type="System.Int32" DbType="Int" />
+    <Parameter Name="SkinActual" Parameter="skinActual" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" />
+    <Parameter Name="SkinActualNombre" Parameter="skinActualNombre" Type="System.String" DbType="NVarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>
