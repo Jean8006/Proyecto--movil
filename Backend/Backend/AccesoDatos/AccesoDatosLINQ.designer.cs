@@ -68,6 +68,13 @@ namespace Backend.AccesoDatos
 			IExecuteResult result = this.ExecuteMethodCall(this, ((MethodInfo)(MethodInfo.GetCurrentMethod())), nombreUsuario, contraseña, puntuacion, skinActual, skinActualNombre);
 			return ((int)(result.ReturnValue));
 		}
+		
+		[global::System.Data.Linq.Mapping.FunctionAttribute(Name="dbo.RegistrarPartida")]
+		public int RegistrarPartida([global::System.Data.Linq.Mapping.ParameterAttribute(Name="JugadorID", DbType="Int")] System.Nullable<int> jugadorID, [global::System.Data.Linq.Mapping.ParameterAttribute(Name="Puntuacion", DbType="Int")] System.Nullable<int> puntuacion, [global::System.Data.Linq.Mapping.ParameterAttribute(Name="FechaHora", DbType="DateTime")] System.Nullable<System.DateTime> fechaHora)
+		{
+			IExecuteResult result = this.ExecuteMethodCall(this, ((MethodInfo)(MethodInfo.GetCurrentMethod())), jugadorID, puntuacion, fechaHora);
+			return ((int)(result.ReturnValue));
+		}
 	}
 }
 #pragma warning restore 1591

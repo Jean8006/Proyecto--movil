@@ -8,4 +8,10 @@
     <Parameter Name="SkinActualNombre" Parameter="skinActualNombre" Type="System.String" DbType="NVarChar(50)" />
     <Return Type="System.Int32" />
   </Function>
+  <Function Name="dbo.RegistrarPartida" Method="RegistrarPartida">
+    <Parameter Name="JugadorID" Parameter="jugadorID" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Puntuacion" Parameter="puntuacion" Type="System.Int32" DbType="Int" />
+    <Parameter Name="FechaHora" Parameter="fechaHora" Type="System.DateTime" DbType="DateTime" />
+    <Return Type="System.Int32" />
+  </Function>
 </Database>
