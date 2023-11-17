@@ -24024,11 +24024,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\campo\\OneDrive\\Escritorio\\Proyecto movil\\Backend\\App\\App.csproj",
+      "projectUniqueName": "D:\\Proyecto\\Proyecto--movil\\Backend\\App\\App.csproj",
       "projectName": "App",
-      "projectPath": "C:\\Users\\campo\\OneDrive\\Escritorio\\Proyecto movil\\Backend\\App\\App.csproj",
+      "projectPath": "D:\\Proyecto\\Proyecto--movil\\Backend\\App\\App.csproj",
       "packagesPath": "C:\\Users\\campo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\campo\\OneDrive\\Escritorio\\Proyecto movil\\Backend\\App\\obj\\",
+      "outputPath": "D:\\Proyecto\\Proyecto--movil\\Backend\\App\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
@@ -24186,7 +24186,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       },
       "net7.0-ios16.1": {
         "targetAlias": "net7.0-ios",
@@ -24244,7 +24244,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       },
       "net7.0-maccatalyst16.1": {
         "targetAlias": "net7.0-maccatalyst",
@@ -24303,7 +24303,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       },
       "net7.0-windows10.0.19041": {
         "targetAlias": "net7.0-windows10.0.19041.0",
@@ -24357,11 +24357,11 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-            "version": "[7.0.12, 7.0.12]"
+            "version": "[7.0.13, 7.0.13]"
           },
           {
             "name": "Microsoft.NETCore.App.Runtime.win-x64",
-            "version": "[7.0.12, 7.0.12]"
+            "version": "[7.0.13, 7.0.13]"
           },
           {
             "name": "Microsoft.Windows.SDK.NET.Ref",
@@ -24369,7 +24369,7 @@
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-            "version": "[7.0.12, 7.0.12]"
+            "version": "[7.0.13, 7.0.13]"
           }
         ],
         "frameworkReferences": {
@@ -24389,7 +24389,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

@@ -16,7 +16,7 @@ namespace Backend.Logica
 
             try
             {
-                if(String.IsNullOrEmpty(req.elJugador.NombreUusario))
+                if(String.IsNullOrEmpty(req.elJugador.NombreUsario))
                 {
                     res.resultado = false;
                     res.errorMensaje = "Usuario faltante";
@@ -27,15 +27,10 @@ namespace Backend.Logica
                     res.errorMensaje = "Password faltante";
 
                 }
-                else if(req.elJugador.puntuacion < 0)
-                {
-                    res.resultado = false;
-                    res.errorMensaje = "No cuenta con puntuacion";
-                }
                 else
                 {
                     AccesoDatosLINQDataContext miLinq = new AccesoDatosLINQDataContext ();
-                    miLinq.InsertarJugador(req.elJugador.NombreUusario, req.elJugador.password, req.elJugador.puntuacion, req.elJugador.skinActual, req.elJugador.skinNombre);
+                    miLinq.InsertarJugador(req.elJugador.NombreUsario, req.elJugador.password);
                     res.resultado = true;
                 }
             }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3jA7Z1b8CtB3wCuVe5AnFxZDpqjJuPpJG1Fcudx7ffJnsUs9AoyEcvad86Ca4rz70QQmZ1fuzyNDdnnfZE+lEQ==",
+  "dgSpecHash": "vImOSWMyCGKEth0Yd4tLDhpL+AvFeQgD3mcYEhlyHQXCEm27Hzgin1lUs+Bo1ZYL8rs3zD+iJeGK81R7l8MR9Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\campo\\OneDrive\\Escritorio\\Proyecto movil\\Backend\\App\\App.csproj",
+  "projectFilePath": "D:\\Proyecto\\Proyecto--movil\\Backend\\App\\App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\campo\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\campo\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
@@ -101,9 +101,9 @@
     "C:\\Users\\campo\\.nuget\\packages\\xamarin.kotlinx.coroutines.android\\1.6.4.1\\xamarin.kotlinx.coroutines.android.1.6.4.1.nupkg.sha512",
     "C:\\Users\\campo\\.nuget\\packages\\xamarin.kotlinx.coroutines.core.jvm\\1.6.4.1\\xamarin.kotlinx.coroutines.core.jvm.1.6.4.1.nupkg.sha512",
     "C:\\Users\\campo\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.29\\microsoft.windows.sdk.net.ref.10.0.19041.29.nupkg.sha512",
-    "C:\\Users\\campo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.12\\microsoft.aspnetcore.app.runtime.win-x64.7.0.12.nupkg.sha512",
-    "C:\\Users\\campo\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.12\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.12.nupkg.sha512",
-    "C:\\Users\\campo\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.12\\microsoft.netcore.app.runtime.win-x64.7.0.12.nupkg.sha512"
+    "C:\\Users\\campo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.13\\microsoft.aspnetcore.app.runtime.win-x64.7.0.13.nupkg.sha512",
+    "C:\\Users\\campo\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.13\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.13.nupkg.sha512",
+    "C:\\Users\\campo\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.13\\microsoft.netcore.app.runtime.win-x64.7.0.13.nupkg.sha512"
   ],
   "logs": []
 }
