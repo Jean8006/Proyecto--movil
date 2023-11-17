@@ -63,9 +63,16 @@ namespace Backend.AccesoDatos
 		}
 		
 		[global::System.Data.Linq.Mapping.FunctionAttribute(Name="dbo.InsertarJugador")]
-		public int InsertarJugador([global::System.Data.Linq.Mapping.ParameterAttribute(Name="NombreUsuario", DbType="NVarChar(50)")] string nombreUsuario, [global::System.Data.Linq.Mapping.ParameterAttribute(Name="Contraseña", DbType="NVarChar(64)")] string contraseña, [global::System.Data.Linq.Mapping.ParameterAttribute(Name="Puntuacion", DbType="Int")] System.Nullable<int> puntuacion, [global::System.Data.Linq.Mapping.ParameterAttribute(Name="SkinActual", DbType="VarBinary(MAX)")] System.Data.Linq.Binary skinActual, [global::System.Data.Linq.Mapping.ParameterAttribute(Name="SkinActualNombre", DbType="NVarChar(50)")] string skinActualNombre)
+		public int InsertarJugador([global::System.Data.Linq.Mapping.ParameterAttribute(Name="NombreUsuario", DbType="NVarChar(50)")] string nombreUsuario, [global::System.Data.Linq.Mapping.ParameterAttribute(Name="Contraseña", DbType="NVarChar(64)")] string contraseña)
 		{
-			IExecuteResult result = this.ExecuteMethodCall(this, ((MethodInfo)(MethodInfo.GetCurrentMethod())), nombreUsuario, contraseña, puntuacion, skinActual, skinActualNombre);
+			IExecuteResult result = this.ExecuteMethodCall(this, ((MethodInfo)(MethodInfo.GetCurrentMethod())), nombreUsuario, contraseña);
+			return ((int)(result.ReturnValue));
+		}
+		
+		[global::System.Data.Linq.Mapping.FunctionAttribute(Name="dbo.CrearSesion")]
+		public int CrearSesion([global::System.Data.Linq.Mapping.ParameterAttribute(Name="JugadorID", DbType="Int")] System.Nullable<int> jugadorID, [global::System.Data.Linq.Mapping.ParameterAttribute(Name="Sesion", DbType="VarChar(50)")] string sesion, [global::System.Data.Linq.Mapping.ParameterAttribute(Name="Estado", DbType="Bit")] System.Nullable<bool> estado)
+		{
+			IExecuteResult result = this.ExecuteMethodCall(this, ((MethodInfo)(MethodInfo.GetCurrentMethod())), jugadorID, sesion, estado);
 			return ((int)(result.ReturnValue));
 		}
 	}

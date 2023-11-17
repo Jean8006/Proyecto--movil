@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace Backend.Entidades
 {
-    public class Jugador
+    public class ReqCrearSesion
     {
-        public string NombreUsario { get; set; }
-        public string password { get; set; }
+        public Sesion laSesion {  get; set; }
     }
 }

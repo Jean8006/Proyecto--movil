@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace Backend.Entidades
 {
-    public class Jugador
+    public class ResCrearSesion : ResBase
     {
-        public string NombreUsario { get; set; }
-        public string password { get; set; }
     }
 }
