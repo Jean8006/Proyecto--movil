@@ -17,5 +17,13 @@ namespace WebAPI.Controllers
             LogSesion logica = new LogSesion();
             return logica.crearSesion(req);
         }
+
+        [HttpPost]
+        [Route("api/sesion/CambiarEstado")]
+        public ResCrearSesion cambiarSesion(ReqCrearSesion req)
+        {
+            LogSesion cambiado = new LogSesion();
+            return cambiado.cambiarEstado(req);
+        }
     }
 }
