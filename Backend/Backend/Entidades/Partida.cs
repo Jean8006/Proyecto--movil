@@ -8,8 +8,8 @@ namespace Backend.Entidades
 {
     public class Partida
     {
-        public int JugadorID { get; set; }
-        public int Puntuacion { get; set; }
+        public int? JugadorID { get; set; }
+        public int? Puntuacion { get; set; }
     }
 }
 

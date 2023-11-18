@@ -59,10 +59,12 @@
     <Compile Include="Entidades\Request\ReqCrearSesion.cs" />
     <Compile Include="Entidades\Request\ReqIngresarJugador.cs" />
     <Compile Include="Entidades\Request\ReqIngresarPartida.cs" />
+    <Compile Include="Entidades\Request\ReqObtenerPartidasPorID.cs" />
     <Compile Include="Entidades\Response\ResBase.cs" />
     <Compile Include="Entidades\Response\ResCrearSesion.cs" />
     <Compile Include="Entidades\Response\ResIngresarJugador.cs" />
     <Compile Include="Entidades\Response\ResIngresarPartida.cs" />
+    <Compile Include="Entidades\Response\ResObtenerPartidasPorID.cs" />
     <Compile Include="Entidades\Sesion.cs" />
     <Compile Include="Logica\LogJugador.cs" />
     <Compile Include="Logica\LogPartidas.cs" />
