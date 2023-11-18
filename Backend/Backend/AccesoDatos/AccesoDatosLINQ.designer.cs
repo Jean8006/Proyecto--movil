@@ -75,6 +75,13 @@ namespace Backend.AccesoDatos
 			IExecuteResult result = this.ExecuteMethodCall(this, ((MethodInfo)(MethodInfo.GetCurrentMethod())), jugadorID, sesion, estado);
 			return ((int)(result.ReturnValue));
 		}
+		
+		[global::System.Data.Linq.Mapping.FunctionAttribute(Name="dbo.CambiarEstadoSesion")]
+		public int CambiarEstadoSesion([global::System.Data.Linq.Mapping.ParameterAttribute(Name="Sesion", DbType="VarChar(50)")] string sesion)
+		{
+			IExecuteResult result = this.ExecuteMethodCall(this, ((MethodInfo)(MethodInfo.GetCurrentMethod())), sesion);
+			return ((int)(result.ReturnValue));
+		}
 	}
 }
 #pragma warning restore 1591

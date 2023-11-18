@@ -47,6 +47,38 @@ namespace Backend.Logica
             }
             return res;
         }
+
+        public ResCrearSesion cambiarEstado(ReqCrearSesion req)
+        {
+            ResCrearSesion res = new ResCrearSesion();
+
+            try
+            {
+                if (String.IsNullOrEmpty(req.laSesion.sesion))
+                {
+                    res.resultado = false;
+                    res.errorMensaje = "Sesion nula";
+                }
+                else if (req.laSesion.estado ==false)
+                {
+                    res.resultado = false;
+                    res.errorMensaje = "Sesion ya cerrada";
+                }
+                else
+                {
+                    AccesoDatosLINQDataContext miLinq = new AccesoDatosLINQDataContext();
+                    miLinq.CambiarEstadoSesion(req.laSesion.sesion);
+                    res.resultado = true;
+
+                }
+            }catch(Exception ex)
+            {
+                res.resultado=false;
+                res.errorMensaje = ex.Message;
+                Console.WriteLine(ex.ToString());
+            }
+            return res;
+        }
     }
 }
 
