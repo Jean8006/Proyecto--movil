@@ -75,6 +75,194 @@ namespace Backend.AccesoDatos
 			IExecuteResult result = this.ExecuteMethodCall(this, ((MethodInfo)(MethodInfo.GetCurrentMethod())), jugadorID, sesion, estado);
 			return ((int)(result.ReturnValue));
 		}
+		
+		[global::System.Data.Linq.Mapping.FunctionAttribute(Name="dbo.CambiarEstadoSesion")]
+		public int CambiarEstadoSesion([global::System.Data.Linq.Mapping.ParameterAttribute(Name="Sesion", DbType="VarChar(50)")] string sesion)
+		{
+			IExecuteResult result = this.ExecuteMethodCall(this, ((MethodInfo)(MethodInfo.GetCurrentMethod())), sesion);
+			return ((int)(result.ReturnValue));
+		}
+		
+		[global::System.Data.Linq.Mapping.FunctionAttribute(Name="dbo.ObtenerPartidasPorJugador")]
+		public ISingleResult<ObtenerPartidasPorJugadorResult> ObtenerPartidasPorJugador([global::System.Data.Linq.Mapping.ParameterAttribute(DbType="Int")] System.Nullable<int> jugadorID)
+		{
+			IExecuteResult result = this.ExecuteMethodCall(this, ((MethodInfo)(MethodInfo.GetCurrentMethod())), jugadorID);
+			return ((ISingleResult<ObtenerPartidasPorJugadorResult>)(result.ReturnValue));
+		}
+		
+		[global::System.Data.Linq.Mapping.FunctionAttribute(Name="dbo.ObtenerTodasLasPartidas")]
+		public ISingleResult<ObtenerTodasLasPartidasResult> ObtenerTodasLasPartidas()
+		{
+			IExecuteResult result = this.ExecuteMethodCall(this, ((MethodInfo)(MethodInfo.GetCurrentMethod())));
+			return ((ISingleResult<ObtenerTodasLasPartidasResult>)(result.ReturnValue));
+		}
+		
+		[global::System.Data.Linq.Mapping.FunctionAttribute(Name="dbo.RegistrarPartida")]
+		public int RegistrarPartida([global::System.Data.Linq.Mapping.ParameterAttribute(Name="JugadorID", DbType="Int")] System.Nullable<int> jugadorID, [global::System.Data.Linq.Mapping.ParameterAttribute(Name="Puntuacion", DbType="Int")] System.Nullable<int> puntuacion)
+		{
+			IExecuteResult result = this.ExecuteMethodCall(this, ((MethodInfo)(MethodInfo.GetCurrentMethod())), jugadorID, puntuacion);
+			return ((int)(result.ReturnValue));
+		}
+	}
+	
+	public partial class ObtenerPartidasPorJugadorResult
+	{
+		
+		private int _ID;
+		
+		private System.Nullable<int> _JugadorID;
+		
+		private System.Nullable<System.DateTime> _FechaHora;
+		
+		private System.Nullable<int> _Puntuacion;
+		
+		public ObtenerPartidasPorJugadorResult()
+		{
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ID", DbType="Int NOT NULL")]
+		public int ID
+		{
+			get
+			{
+				return this._ID;
+			}
+			set
+			{
+				if ((this._ID != value))
+				{
+					this._ID = value;
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_JugadorID", DbType="Int")]
+		public System.Nullable<int> JugadorID
+		{
+			get
+			{
+				return this._JugadorID;
+			}
+			set
+			{
+				if ((this._JugadorID != value))
+				{
+					this._JugadorID = value;
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_FechaHora", DbType="DateTime")]
+		public System.Nullable<System.DateTime> FechaHora
+		{
+			get
+			{
+				return this._FechaHora;
+			}
+			set
+			{
+				if ((this._FechaHora != value))
+				{
+					this._FechaHora = value;
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Puntuacion", DbType="Int")]
+		public System.Nullable<int> Puntuacion
+		{
+			get
+			{
+				return this._Puntuacion;
+			}
+			set
+			{
+				if ((this._Puntuacion != value))
+				{
+					this._Puntuacion = value;
+				}
+			}
+		}
+	}
+	
+	public partial class ObtenerTodasLasPartidasResult
+	{
+		
+		private int _ID;
+		
+		private System.Nullable<int> _JugadorID;
+		
+		private System.Nullable<System.DateTime> _FechaHora;
+		
+		private System.Nullable<int> _Puntuacion;
+		
+		public ObtenerTodasLasPartidasResult()
+		{
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ID", DbType="Int NOT NULL")]
+		public int ID
+		{
+			get
+			{
+				return this._ID;
+			}
+			set
+			{
+				if ((this._ID != value))
+				{
+					this._ID = value;
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_JugadorID", DbType="Int")]
+		public System.Nullable<int> JugadorID
+		{
+			get
+			{
+				return this._JugadorID;
+			}
+			set
+			{
+				if ((this._JugadorID != value))
+				{
+					this._JugadorID = value;
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_FechaHora", DbType="DateTime")]
+		public System.Nullable<System.DateTime> FechaHora
+		{
+			get
+			{
+				return this._FechaHora;
+			}
+			set
+			{
+				if ((this._FechaHora != value))
+				{
+					this._FechaHora = value;
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Puntuacion", DbType="Int")]
+		public System.Nullable<int> Puntuacion
+		{
+			get
+			{
+				return this._Puntuacion;
+			}
+			set
+			{
+				if ((this._Puntuacion != value))
+				{
+					this._Puntuacion = value;
+				}
+			}
+		}
 	}
 }
 #pragma warning restore 1591
