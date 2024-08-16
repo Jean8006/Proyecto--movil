@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             x:Class="Juego.Pages.HomePage"
+             Title="HomePage" >
+    <ContentPage Title="Home" BackgroundImageSource="homescreen.png" x:Name="Home">
+        
+        <StackLayout>
+            <toolkit:MediaElement x:Name="homeSound" Source="Embed://HomeMain.mp3" IsVisible="false" Speed="1" ShouldAutoPlay="True" ShouldLoopPlayback="True"/>
+            <Grid BackgroundColor="#80000000" VerticalOptions="Start" HeightRequest="80">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+
+                <!-- Imagen a la izquierda -->
+                <ImageButton Grid.Column="0" Source="perfil.png" VerticalOptions="Center" WidthRequest="30" HeightRequest="30" Clicked="OnPerfilButtonClicked" TranslationY="-5" TranslationX="40"/>
+
+                <!-- Label para el nombre del jugador -->
+                <Label x:Name="NombreUsuario" Grid.Column="1" Text="" FontSize="18" FontFamily="CustomFont" TextColor="White" Margin="0,0,0,5" HorizontalOptions="Start" TranslationY="30" TranslationX="70"/>
+
+                <!-- Segunda imagen -->
+                <Image Grid.Column="2" Source="ovni_puntuacion.png" HeightRequest="30" WidthRequest="30" HorizontalOptions="Center" TranslationX="150" TranslationY="1"></Image>
+
+                <!-- Label para los puntos -->
+                <Label x:Name="Score" Grid.Column="3" Text="" FontFamily="CustomFont" FontSize="18" TextColor="White" HorizontalOptions="End" TranslationX="190" TranslationY="30" VerticalOptions="Start"/>
+            </Grid>
+            
+            <Button x:Name="CounterBtn"
+       Text="Play"
+       SemanticProperties.Hint="Counts the number of times you click"
+       Clicked="OnCounterBtn_Clicked_1"
+       HorizontalOptions="Center"
+                FontFamily="CustomFont"
+                WidthRequest="110"
+                HeightRequest="50"
+                TranslationY="350"
+                BackgroundColor="#63e7ff"
+                Pressed="CounterBtn_Pressed"
+                Released="CounterBtn_Released"
+                TextColor="White"
+                    FontAttributes="Bold"
+                />
+
+        </StackLayout>
+    </ContentPage>
+
+
+
+    <ContentPage Title="Leaderboard" BackgroundImageSource="homescreen">
+        
+
+        <StackLayout Margin="15">
+            <Label Text="Leaderboard" HorizontalOptions="Center" FontSize="Large" FontFamily="CustomFont"/>
+            
+            <Frame BackgroundColor="White" CornerRadius="10" Margin="0,10,0,10" TranslationY="70" HeightRequest="500">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+
+                    <!-- Encabezado del Leaderboard -->
+                    <Grid Grid.Row="0">
+                        <Grid.ColumnDefinitions>
+                            <!-- Columna 1 - Posición -->
+                            <ColumnDefinition Width="*" />
+                            <!-- Columna 2 - Jugador -->
+                            <ColumnDefinition Width="*" />
+                            <!-- Columna 3 - Puntuación -->
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <!-- Columna 1 - Posición -->
+                        <Label Text="Posición" TextColor="Purple" FontFamily="CustomFont" Grid.Row="0" Grid.Column="0" />
+                        <!-- Columna 2 - Jugador -->
+                        <Label Text="Jugador" TextColor="Purple" FontFamily="CustomFont" Grid.Row="0" Grid.Column="1" />
+                        <!-- Columna 3 - Puntuación -->
+                        <Label Text="Puntuación" TextColor="Purple" FontFamily="CustomFont" Grid.Row="0" Grid.Column="2" />
+                    </Grid>
+
+                    <!-- Cuerpo del Leaderboard con la ListView dentro de un ScrollView -->
+            <ScrollView Grid.Row="1">
+                <VerticalStackLayout>
+                    <ListView x:Name="lvScores">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <StackLayout Orientation="Horizontal" Margin="5,0,5,0">
+                                        <Label Text="{Binding Posicion}" FontFamily="CustomFont" TextColor="Purple" Grid.Column="0"/>
+                                        <Label Text=" "/>
+                                        <Label Text=" "/>
+                                        <Label Text=" "/>
+                                                <Label Text=" "/>
+                                                <Label Text=" "/>
+                                                <Label Text=" "/>
+                                                <Label Text=" "/>
+                                                <Label Text=" "/>
+                                                <Label Text=" "/>
+                                                <Label Text=" "/>
+
+                                                <Label Text="{Binding jugador}" FontAttributes="Bold" FontFamily="CustomFont" TextColor="Black" Grid.Column="1"/>
+                                        <Label Text=" "/>
+                                                <Label Text=" "/>
+                                                <Label Text=" "/>
+                                                <Label Text=" "/>
+                                                <Label Text=" "/>
+                                                <Label Text=" "/>
+                                                <Label Text=" "/>
+                                                <Label Text=" "/>
+                                                <Label Text=" "/>
+                                                <Label Text=" "/>
+                                                <Label Text=" "/>
+                                                <Label Text=" "/>
+                                                <Label Text=" "/>
+                                                <Label Text="{Binding Puntuacion}" FontFamily="CustomFont" TextColor="Purple" Grid.Column="2"/>
+                                    </StackLayout>
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </VerticalStackLayout>
+            </ScrollView>
+        </Grid>
+            </Frame>
+        </StackLayout>
+
+    </ContentPage>
+
+    <ContentPage Title="Spaceship" BackgroundImageSource="login.png" x:Name="Account">
+        <StackLayout>
+            <Label x:Name="Naves" Text="Select your spaceship" HorizontalOptions="Center" FontSize="Large" TranslationY="30" FontFamily="CustomFont"/>
+
+            <!-- Imagen principal de 200x200 centrada -->
+            <Image x:Name="naveView" Source="nave.png" WidthRequest="150" HeightRequest="150" VerticalOptions="Start" HorizontalOptions="Center" TranslationY="90"/>
+
+            <!-- Fila 1 -->
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" TranslationY="100">
+                <StackLayout>
+                    <Image Source="nave.png" WidthRequest="50" HeightRequest="50"/>
+                    <Button x:Name="btnDefault" Text="" WidthRequest="40" Clicked="OnButtonClicked" CommandParameter="nave.png"/>
+                </StackLayout>
+
+                <StackLayout>
+                    <Image Source="skin1.png" WidthRequest="50" HeightRequest="50"/>
+                    <Button x:Name="btn1" Text="" WidthRequest="40" Clicked="OnButtonClicked" CommandParameter="skin1.png"/>
+                </StackLayout>
+
+                <StackLayout>
+                    <Image Source="skin2.png" WidthRequest="50" HeightRequest="50"/>
+                    <Button x:Name="btn2" Text="" WidthRequest="40" Clicked="OnButtonClicked" CommandParameter="skin2.png"/>
+                </StackLayout>
+
+                <StackLayout>
+                    <Image Source="skin3.png" WidthRequest="50" HeightRequest="50"/>
+                    <Button x:Name="btn3" Text="" WidthRequest="40" Clicked="OnButtonClicked" CommandParameter="skin3.png"/>
+                </StackLayout>
+            </StackLayout>
+
+            <!-- Fila 2 -->
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" TranslationY="110">
+                <StackLayout>
+                    <Image Source="skin4.png" WidthRequest="50" HeightRequest="50"/>
+                    <Button x:Name="btn4" Text="" WidthRequest="40" Clicked="OnButtonClicked" CommandParameter="skin4.png" IsEnabled="True"/>
+                </StackLayout>
+
+                <StackLayout>
+                    <Image Source="skin5.png" WidthRequest="50" HeightRequest="50"/>
+                    <Button x:Name="btn5" Text="" WidthRequest="40" Clicked="OnButtonClicked" CommandParameter="skin5.png" IsEnabled="True"/>
+                </StackLayout>
+
+                <StackLayout>
+                    <Image Source="skin6.png" WidthRequest="50" HeightRequest="50"/>
+                    <Button x:Name="btn6" Text="" WidthRequest="40" Clicked="OnButtonClicked" CommandParameter="skin6.png" IsEnabled="True"/>
+                </StackLayout>
+
+                <StackLayout>
+                    <Image Source="skin7.png" WidthRequest="50" HeightRequest="50"/>
+                    <Button x:Name="btn7" Text="" WidthRequest="40" Clicked="OnButtonClicked" CommandParameter="skin7.png" IsEnabled="True"/>
+                </StackLayout>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage>
+
+</TabbedPage>

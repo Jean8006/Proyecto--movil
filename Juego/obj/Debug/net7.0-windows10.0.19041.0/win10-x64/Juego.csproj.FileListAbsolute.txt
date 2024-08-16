@@ -1,0 +1,1332 @@
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.exe
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.deps.json
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.runtimeconfig.json
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.pdb
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Console.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Core.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Tar.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\netstandard.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrgc.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrjit.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\coreclr.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\createdump.exe
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.1423.51910.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.csproj.AssemblyReference.cache
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.AssemblyInfoInputs.cache
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.AssemblyInfo.cs
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.csproj.CoreCompileInputs.cache
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.csproj.CopyComplete
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\refint\Juego.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.pdb
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.genruntimeconfig.cache
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ref\Juego.dll
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\Users\noemy\OneDrive\Documentos\Archivos Universidad Latina\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.exe
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.deps.json
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.runtimeconfig.json
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.pdb
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Console.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Core.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Tar.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\netstandard.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrgc.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrjit.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\coreclr.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\createdump.exe
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.csproj.AssemblyReference.cache
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.AssemblyInfoInputs.cache
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.AssemblyInfo.cs
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.csproj.CoreCompileInputs.cache
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.csproj.CopyComplete
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\refint\Juego.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.pdb
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.genruntimeconfig.cache
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ref\Juego.dll
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\dqch1\OneDrive\Escritorio\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.1423.51910.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.exe
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.deps.json
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.runtimeconfig.json
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.pdb
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Console.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Core.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Tar.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\netstandard.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrgc.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrjit.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\coreclr.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\createdump.exe
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.1323.51816.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.csproj.AssemblyReference.cache
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\giphy.scale-100.gif
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\nave.scale-100.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\ovni_1.scale-100.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\ovni_2.scale-100.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\ovni_3.scale-100.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\ovni_4.scale-100.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\planeta_1.scale-100.png
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.AssemblyInfoInputs.cache
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.AssemblyInfo.cs
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.csproj.CoreCompileInputs.cache
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.csproj.CopyComplete
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\refint\Juego.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.pdb
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.genruntimeconfig.cache
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ref\Juego.dll
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\campo\OneDrive\Escritorio\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.exe
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.deps.json
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.runtimeconfig.json
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.pdb
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Console.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Core.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Tar.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\netstandard.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrgc.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrjit.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\coreclr.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\createdump.exe
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.1323.51816.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.csproj.AssemblyReference.cache
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.GeneratedMSBuildEditorConfig.editorconfig
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\logo_appSplashScreen.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\logo_appSplashScreen.scale-125.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\logo_appSplashScreen.scale-150.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\logo_appSplashScreen.scale-200.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\logo_appSplashScreen.scale-400.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\ArcadeClassic.ttf
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\explosion.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\galaxia.scale-100.jpg
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\giphy.scale-100.gif
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\homescreen.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\login.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logoapp.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_app.ico
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appLargeTile.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appLargeTile.scale-125.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appLargeTile.scale-150.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appLargeTile.scale-200.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appLargeTile.scale-400.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appLogo.altform-lightunplated_targetsize-16.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appLogo.altform-lightunplated_targetsize-24.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appLogo.altform-lightunplated_targetsize-256.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appLogo.altform-lightunplated_targetsize-32.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appLogo.altform-lightunplated_targetsize-48.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appLogo.altform-unplated_targetsize-16.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appLogo.altform-unplated_targetsize-24.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appLogo.altform-unplated_targetsize-256.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appLogo.altform-unplated_targetsize-32.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appLogo.altform-unplated_targetsize-48.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appLogo.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appLogo.scale-125.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appLogo.scale-150.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appLogo.scale-200.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appLogo.scale-400.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appLogo.targetsize-16.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appLogo.targetsize-24.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appLogo.targetsize-256.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appLogo.targetsize-32.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appLogo.targetsize-48.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appMediumTile.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appMediumTile.scale-125.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appMediumTile.scale-150.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appMediumTile.scale-200.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appMediumTile.scale-400.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appSmallTile.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appSmallTile.scale-125.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appSmallTile.scale-150.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appSmallTile.scale-200.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appSmallTile.scale-400.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appStoreLogo.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appStoreLogo.scale-125.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appStoreLogo.scale-150.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appStoreLogo.scale-200.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appStoreLogo.scale-400.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appWideTile.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appWideTile.scale-125.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appWideTile.scale-150.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appWideTile.scale-200.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_appWideTile.scale-400.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\nave.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\ovni_1.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\ovni_2.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\ovni_3.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\ovni_4.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\ovni_puntuacion.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\perfil.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\planeta_1.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\play.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\skin1.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\skin2.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\skin3.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\skin4.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\skin5.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\skin6.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\skin7.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\textbox.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\usuario.scale-100.png
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.AssemblyInfoInputs.cache
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.AssemblyInfo.cs
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.csproj.CoreCompileInputs.cache
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.csproj.CopyComplete
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.dll
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\refint\Juego.dll
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.pdb
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Juego.genruntimeconfig.cache
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ref\Juego.dll
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+D:\Juego\Juego\Juego\Juego\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.MediaElement.dll
+D:\Juego\Juego\Juego\Juego\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Plugin.Maui.Audio.dll

@@ -1,0 +1,134 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFrameworks>net7.0-android;net7.0-ios;net7.0-maccatalyst</TargetFrameworks>
+		<TargetFrameworks Condition="$([MSBuild]::IsOSPlatform('windows'))">$(TargetFrameworks);net7.0-windows10.0.19041.0</TargetFrameworks>
+		<!-- Uncomment to also build the tizen app. You will need to install tizen by following this: https://github.com/Samsung/Tizen.NET -->
+		<!-- <TargetFrameworks>$(TargetFrameworks);net7.0-tizen</TargetFrameworks> -->
+		<OutputType>Exe</OutputType>
+		<RootNamespace>Juego</RootNamespace>
+		<UseMaui>true</UseMaui>
+		<SingleProject>true</SingleProject>
+		<ImplicitUsings>enable</ImplicitUsings>
+
+		<!-- Display name -->
+		<ApplicationTitle>Juego</ApplicationTitle>
+
+		<!-- App Identifier -->
+		<ApplicationId>com.companyname.juego</ApplicationId>
+		<ApplicationIdGuid>00ca75ef-ce36-4803-892d-95edca8e5fdd</ApplicationIdGuid>
+
+		<!-- Versions -->
+		<ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
+		<ApplicationVersion>1</ApplicationVersion>
+
+		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'ios'">11.0</SupportedOSPlatformVersion>
+		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'maccatalyst'">13.1</SupportedOSPlatformVersion>
+		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'android'">22.0</SupportedOSPlatformVersion>
+		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'windows'">10.0.17763.0</SupportedOSPlatformVersion>
+		<TargetPlatformMinVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'windows'">10.0.17763.0</TargetPlatformMinVersion>
+		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'tizen'">6.5</SupportedOSPlatformVersion>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net7.0-android|AnyCPU'">
+	  <EmbedAssembliesIntoApk>True</EmbedAssembliesIntoApk>
+	  <AndroidCreatePackagePerAbi>True</AndroidCreatePackagePerAbi>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net7.0-android|AnyCPU'">
+	  <AndroidCreatePackagePerAbi>True</AndroidCreatePackagePerAbi>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<!-- App Icon -->
+		<MauiIcon Include="Resources\AppIcon\logo_app.png" color="purple" Foreground="0.65" />
+		
+		
+
+		<!-- Splash Screen -->
+
+		<MauiSplashScreen Include="Resources\Splash\logo_app.png" Color="#512BD4" BaseSize="128,128" />
+
+		<!-- Images -->
+		<MauiImage Include="Resources\Images\*" />
+		<MauiImage Update="Resources\Images\dotnet_bot.svg" BaseSize="168,208" />
+
+		<!-- Custom Fonts -->
+		<MauiFont Include="Resources\Fonts\*" />
+
+		<!-- Raw Assets (also remove the "Resources\Raw" prefix) -->
+		<MauiAsset Include="Resources\Raw\**" LogicalName="%(RecursiveDir)%(Filename)%(Extension)" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <MauiFont Remove="Resources\Fonts\PressStart2P-Regular.ttf" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Remove="Resources\AppIcon\logo_app.png" />
+	  <None Remove="Resources\Fonts\ArcadeClassic.ttf" />
+	  <None Remove="Resources\Fonts\PressStart2P-Regular.ttf" />
+	  <None Remove="Resources\Images\explosion.png" />
+	  <None Remove="Resources\Images\galaxia.jpg" />
+	  <None Remove="Resources\Images\giphy.gif" />
+	  <None Remove="Resources\Images\home.png" />
+	  <None Remove="Resources\Images\homescreen.png" />
+	  <None Remove="Resources\Images\login.png" />
+	  <None Remove="Resources\Images\logoApp.png" />
+	  <None Remove="Resources\Images\meteorito_azul.png" />
+	  <None Remove="Resources\Images\meteorito_fuego.png" />
+	  <None Remove="Resources\Images\nave.png" />
+	  <None Remove="Resources\Images\ovni_1.png" />
+	  <None Remove="Resources\Images\ovni_2.png" />
+	  <None Remove="Resources\Images\ovni_3.png" />
+	  <None Remove="Resources\Images\ovni_4.png" />
+	  <None Remove="Resources\Images\ovni_puntuacion.png" />
+	  <None Remove="Resources\Images\perfil.png" />
+	  <None Remove="Resources\Images\planeta_1.png" />
+	  <None Remove="Resources\Images\planeta_destruido.png" />
+	  <None Remove="Resources\Images\planeta_hielo.png" />
+	  <None Remove="Resources\Images\play.png" />
+	  <None Remove="Resources\Images\skin1.png" />
+	  <None Remove="Resources\Images\skin2.png" />
+	  <None Remove="Resources\Images\skin3.png" />
+	  <None Remove="Resources\Images\skin4.png" />
+	  <None Remove="Resources\Images\skin5.png" />
+	  <None Remove="Resources\Images\skin6.png" />
+	  <None Remove="Resources\Images\skin7.png" />
+	  <None Remove="Resources\Images\textbox.png" />
+	  <None Remove="Resources\Images\usuario.png" />
+	  <None Remove="Resources\Raw\Game.mp3" />
+	  <None Remove="Resources\Raw\HomeMain.mp3" />
+	  <None Remove="Resources\Splash\logo_app.png" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Content Include="Resources\Fonts\PressStart2P-Regular.ttf" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="CommunityToolkit.Maui.MediaElement" Version="2.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="7.0.0" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+		<PackageReference Include="Plugin.Maui.Audio" Version="2.1.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <MauiXaml Update="Pages\HomePage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Pages\JuegoPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Pages\LoadingPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Pages\LoginPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Pages\LogoutPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	</ItemGroup>
+
+</Project>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="Juego.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:Juego"
+    xmlns:pages="clr-namespace:Juego.Pages"
+    Shell.FlyoutBehavior="Flyout"
+    Shell.NavBarIsVisible="false">
+
+
+
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate pages:LoadingPage}"
+        Route="LoadingPage" />
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+    <ShellContent
+    Title="Home"
+    ContentTemplate="{DataTemplate pages:LoginPage}"
+    Route="LoginPage" />
+    <ShellContent
+Title="Home"
+ContentTemplate="{DataTemplate pages:HomePage}"
+Route="HomePage" />
+
+    
+</Shell>

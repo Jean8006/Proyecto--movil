@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             x:Class="App.Pages.JuegoPage"
+             Title="JuegoPage"
+             BackgroundImageSource="galaxia.jpg">
+
+
+
+    <StackLayout>
+        <toolkit:MediaElement x:Name="gameSound" Source="Embed://Game.mp3" IsVisible="false" Speed="1" ShouldAutoPlay="True" ShouldLoopPlayback="True"/>
+        <Grid x:Name="spotsGrid" VerticalOptions="Start" HorizontalOptions="FillAndExpand">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+
+
+            <!-- Definir tus spots aquí como BoxViews en las columnas del Grid -->
+            <BoxView x:Name="spot1" BackgroundColor="LightGray" Grid.Column="0" Grid.Row="0"/>
+            <BoxView x:Name="spot2" BackgroundColor="LightGray" Grid.Column="1" Grid.Row="0"/>
+            <BoxView x:Name="spot3" BackgroundColor="LightGray" Grid.Column="2" Grid.Row="0"/>
+            <BoxView x:Name="spot4" BackgroundColor="LightGray" Grid.Column="3" Grid.Row="0"/>
+
+
+            <Grid>
+                <Image
+                    x:Name="naveImage"
+                    Source="nave.png"
+                    SemanticProperties.Description="Cute dot net bot waving hi to you!"
+                    HeightRequest="50"
+                    WidthRequest="50"
+                />
+
+                <BoxView x:Name="naveBoxView" WidthRequest="40" HeightRequest="35" Color="Transparent" />
+              
+            </Grid>
+
+
+            <Image Source="ovni_puntuacion.png" WidthRequest="22" HeightRequest="22" TranslationY="45" TranslationX="235" VerticalOptions="Center" HorizontalOptions="Center" IsVisible="True"/>
+            <Image x:Name="imageVida" Source="nave.png" WidthRequest="22" HeightRequest="22" TranslationY="87" TranslationX="235" VerticalOptions="Center" HorizontalOptions="Center" IsVisible="True"/>
+
+
+            <Image
+                x:Name="ovni1"
+                Source="ovni_1.png"
+                SemanticProperties.Description="Cute dot net bot waving hi to you!"
+                Aspect="AspectFit"
+                HeightRequest="50"
+                WidthRequest="50"
+               IsVisible="false"/>
+            <BoxView x:Name="hitboxCae1" WidthRequest="50" HeightRequest="50" Color="Transparent"/>
+
+
+            <Image
+               x:Name="ovni2"
+               Source="ovni_2.png"
+               SemanticProperties.Description="Cute dot net bot waving hi to you!"
+               Aspect="AspectFit"
+               HeightRequest="50"
+               WidthRequest="50"
+               IsVisible="false"/>
+            <BoxView x:Name="hitboxCae2" WidthRequest="50" HeightRequest="50" Color="Transparent" />
+            <Image
+               x:Name="ovni3"
+               Source="ovni_3.png"
+               SemanticProperties.Description="Cute dot net bot waving hi to you!"
+               Aspect="AspectFit"
+               HeightRequest="50"
+               WidthRequest="50"
+               IsVisible="false"/>
+            <BoxView x:Name="hitboxCae3" WidthRequest="50" HeightRequest="50" Color="Transparent" />
+            <Image
+                x:Name="ovni4"
+                Source="ovni_4.png"
+                SemanticProperties.Description="Cute dot net bot waving hi to you!"
+                Aspect="AspectFit"
+                HeightRequest="50"
+                WidthRequest="50"
+                IsVisible="false"/>
+            <BoxView x:Name="hitboxCae4" WidthRequest="50" HeightRequest="50" Color="Transparent" />
+
+            <Image
+                x:Name="meteorito1"
+                Source="meteorito_azul.png"
+                SemanticProperties.Description="Cute dot net bot waving hi to you!"
+                Aspect="AspectFit"
+                HeightRequest="50"
+                WidthRequest="50"
+                IsVisible="false"/>
+            <BoxView x:Name="hitboxCae5" WidthRequest="50" HeightRequest="50" Color="Transparent" />
+
+            <Image
+                x:Name="meteorito2"
+                Source="meteorito_fuego.png"
+                SemanticProperties.Description="Cute dot net bot waving hi to you!"
+                Aspect="AspectFit"
+                HeightRequest="50"
+                WidthRequest="50"
+                IsVisible="false"/>
+            <BoxView x:Name="hitboxCae6" WidthRequest="50" HeightRequest="50" Color="Transparent" />
+
+            <Image
+                x:Name="planeta1"
+                Source="planeta_destruido.png"
+                SemanticProperties.Description="Cute dot net bot waving hi to you!"
+                Aspect="AspectFit"
+                HeightRequest="70"
+                WidthRequest="70"
+                IsVisible="false"/>
+            <BoxView x:Name="hitboxCae7" WidthRequest="50" HeightRequest="50" Color="Transparent" />
+
+            <Image
+                x:Name="planeta2"
+                Source="planeta_hielo.png"
+                SemanticProperties.Description="Cute dot net bot waving hi to you!"
+                Aspect="AspectFit"
+                HeightRequest="70"
+                WidthRequest="70"
+                IsVisible="false"/>     
+            <BoxView x:Name="hitboxCae8" WidthRequest="50" HeightRequest="50" Color="Transparent" />
+        </Grid>
+
+      
+        <Label
+            x:Name="lblPuntuacion"
+            Text=""
+            TextColor="White"
+            TranslationY="35"
+            TranslationX="300"
+                    FontFamily="CustomFont"
+/>
+        <Label
+            x:Name="lblvidas"
+            Text=""
+            TextColor="Aqua"  
+            TranslationY="60"        
+            TranslationX="300"
+            FontFamily="CustomFont"
+     />
+    </StackLayout>
+
+</ContentPage>

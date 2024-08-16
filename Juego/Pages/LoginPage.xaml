@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Juego.Pages.LoginPage"
+             Title="LoginPage"
+             BackgroundImageSource="login.png">
+    <StackLayout>
+        <Image Source="logoapp.png" WidthRequest="60" HeightRequest="60" TranslationX="20" TranslationY="10" VerticalOptions="Start" HorizontalOptions="Start"></Image>
+        <Label Text="Login" FontSize="40" HeightRequest="50" TranslationY="20" HorizontalOptions="Center" FontFamily="CustomFont"></Label>
+        <Label Text="Name" VerticalOptions="Center" TranslationX="60" TranslationY="30"  FontFamily="CustomFont"></Label>
+        <Frame BackgroundColor="#6a6174" BorderColor="Transparent" TranslationY="40" HeightRequest="35" WidthRequest="250">
+            <Entry Placeholder="Enter User"  FontFamily="CustomFont" PlaceholderColor="White" BackgroundColor="#6a6174" WidthRequest="250" HeightRequest="35" Opacity="0.5" Keyboard="Chat" FontAttributes="Bold" CharacterSpacing="2" ClearButtonVisibility="WhileEditing" x:Name="Usuario"></Entry>
+        </Frame>
+        <Label Text="Password" VerticalOptions="Center" TranslationX="60" TranslationY="50"></Label>
+        <Frame BackgroundColor="#6a6174" BorderColor="Transparent" TranslationY="60" HeightRequest="35" WidthRequest="250">
+            <Entry Placeholder="Enter Password"  FontFamily="CustomFont" PlaceholderColor="White" BackgroundColor="#6a6174" WidthRequest="250" HeightRequest="35" Opacity="0.5" Keyboard="Chat" FontAttributes="Bold" CharacterSpacing="2" ClearButtonVisibility="WhileEditing" x:Name="Password" IsPassword="True"></Entry>
+        </Frame>
+
+        <Button x:Name="Login" Text="Login"  FontFamily="CustomFont" BackgroundColor="#63e7ff" TextColor="White" FontAttributes="Bold" TranslationY="70" WidthRequest="250" Clicked="Login_Clicked" Pressed="Login_Pressed" Released="Login_Released"></Button>
+        <Button x:Name="NewUser" Text="New User"  FontFamily="CustomFont" BackgroundColor="#63e7ff" TextColor="White" FontAttributes="Bold" TranslationY="80" WidthRequest="250" Clicked="NewUser_Clicked" Pressed="NewUser_Pressed" Released="NewUser_Released"></Button>
+
+
+        <ActivityIndicator x:Name="loadingIndicator" IsRunning="False" IsVisible="False" Color="Gray" />
+    </StackLayout>
+</ContentPage>
